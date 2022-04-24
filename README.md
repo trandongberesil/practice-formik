@@ -1,3 +1,12 @@
+# Formik practice
+
+# demo
+![1](https://user-images.githubusercontent.com/84276205/164959187-fa9dbe56-693f-4854-911a-939f158cfa9f.jpg)
+![2](https://user-images.githubusercontent.com/84276205/164959191-ec59454b-d034-407f-a092-43248850950f.jpg)
+![3](https://user-images.githubusercontent.com/84276205/164959194-5d8248f5-daea-4312-b693-89cddd9f0f8e.jpg)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
